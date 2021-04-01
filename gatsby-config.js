@@ -1,6 +1,6 @@
 const path = require('path');
 
-moduless.exports = {
+module.exports = {
   siteMetadata: {
     title: 'gatsby-hosting-canary',
   },
